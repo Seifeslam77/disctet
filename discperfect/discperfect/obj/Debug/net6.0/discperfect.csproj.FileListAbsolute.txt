@@ -1,0 +1,15 @@
+E:\visual std\discperfect\discperfect\bin\Debug\net6.0\discperfect.exe
+E:\visual std\discperfect\discperfect\bin\Debug\net6.0\discperfect.deps.json
+E:\visual std\discperfect\discperfect\bin\Debug\net6.0\discperfect.runtimeconfig.json
+E:\visual std\discperfect\discperfect\bin\Debug\net6.0\discperfect.dll
+E:\visual std\discperfect\discperfect\bin\Debug\net6.0\discperfect.pdb
+E:\visual std\discperfect\discperfect\obj\Debug\net6.0\discperfect.csproj.AssemblyReference.cache
+E:\visual std\discperfect\discperfect\obj\Debug\net6.0\discperfect.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual std\discperfect\discperfect\obj\Debug\net6.0\discperfect.AssemblyInfoInputs.cache
+E:\visual std\discperfect\discperfect\obj\Debug\net6.0\discperfect.AssemblyInfo.cs
+E:\visual std\discperfect\discperfect\obj\Debug\net6.0\discperfect.csproj.CoreCompileInputs.cache
+E:\visual std\discperfect\discperfect\obj\Debug\net6.0\discperfect.dll
+E:\visual std\discperfect\discperfect\obj\Debug\net6.0\refint\discperfect.dll
+E:\visual std\discperfect\discperfect\obj\Debug\net6.0\discperfect.pdb
+E:\visual std\discperfect\discperfect\obj\Debug\net6.0\discperfect.genruntimeconfig.cache
+E:\visual std\discperfect\discperfect\obj\Debug\net6.0\ref\discperfect.dll

@@ -1,0 +1,15 @@
+E:\visual std\primenumber\primenumber\bin\Debug\net6.0\primenumber.exe
+E:\visual std\primenumber\primenumber\bin\Debug\net6.0\primenumber.deps.json
+E:\visual std\primenumber\primenumber\bin\Debug\net6.0\primenumber.runtimeconfig.json
+E:\visual std\primenumber\primenumber\bin\Debug\net6.0\primenumber.dll
+E:\visual std\primenumber\primenumber\bin\Debug\net6.0\primenumber.pdb
+E:\visual std\primenumber\primenumber\obj\Debug\net6.0\primenumber.csproj.AssemblyReference.cache
+E:\visual std\primenumber\primenumber\obj\Debug\net6.0\primenumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual std\primenumber\primenumber\obj\Debug\net6.0\primenumber.AssemblyInfoInputs.cache
+E:\visual std\primenumber\primenumber\obj\Debug\net6.0\primenumber.AssemblyInfo.cs
+E:\visual std\primenumber\primenumber\obj\Debug\net6.0\primenumber.csproj.CoreCompileInputs.cache
+E:\visual std\primenumber\primenumber\obj\Debug\net6.0\primenumber.dll
+E:\visual std\primenumber\primenumber\obj\Debug\net6.0\refint\primenumber.dll
+E:\visual std\primenumber\primenumber\obj\Debug\net6.0\primenumber.pdb
+E:\visual std\primenumber\primenumber\obj\Debug\net6.0\primenumber.genruntimeconfig.cache
+E:\visual std\primenumber\primenumber\obj\Debug\net6.0\ref\primenumber.dll
